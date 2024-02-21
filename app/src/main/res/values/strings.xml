@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="burger">West Coast Burger</string>
+    <string name="descripcion">Hamburguesa con triple carne y doble queso, excelente para calmar tu hambre y ansias
+    de una comida que cumpla con tus mas exigentes espectativas</string>
+    <string name="comprarbtn">comprar</string>
+    <string name="price">$200</string>
+    <string name="OrderConfirmation">Su hamburguesa esta siendo preparada</string>
+    <string name="TitleConfirmation">Compra exitosa</string>
+</resources>
